@@ -1,0 +1,1 @@
+VB Scripts made during VB Scripting Course - credits to GlobalETraining.com
