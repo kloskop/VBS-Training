@@ -9,7 +9,8 @@ Dim diskType
 drive="C:\"
 
 Set oFSO = CreateObject("Scripting.FileSystemObject")
-' Creating folder oFSO.CreateFolder("C:\Users\NEX2ZUU\Desktop\Materialy\VBS Course\Dir1")
+'Creating folder 
+'oFSO.CreateFolder("C:\Users\NEX2ZUU\Desktop\Materialy\VBS Course\Dir1")
 
 'Viewing list of drives
 'Set cDrives = oFSO.Drives
@@ -53,6 +54,7 @@ Else
 	MsgBox "We did not find the drive "&drive,0, "Result"
 End If
 
+set oFSO = Nothing
 
 
 
