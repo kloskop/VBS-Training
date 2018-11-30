@@ -1,0 +1,46 @@
+E0066C42|2|Rev & Mrs Sample101 Person101|3192 Bronson Rd|Fairfield CT  06824||||||0101|
+75D50E22|2|Ms. Sample102 Person102|12 Charcoal Hill Rd|Westport CT  06880||||||0102|
+41C44086|4|Mr & Mrs Sample103 Person103|15 Huckleberry Ln|Greenwich CT  06831||||||0103|
+EA29DDB1|4|Mr & Mrs Sample104 Person104|14 Dogwood Ln|Westport CT  06880||||||0104|
+6C4928EB|6|Ms. Sample105 Person105|33 Red Coat Rd|Westport CT  06880||||||0105|
+23E37F81|6|Ms. Sample106 Person106|100 Highview Ave|Stamford CT  06907||||||0106|
+2E474C40|8|Mr. Sample107 Person107|21 Muriel St|Norwalk CT  06851||||||0107|
+981B0262|2|Mr. Sample108 Person108|331 Wormwood Rd|Fairfield CT  06824||||||0108|
+4A60A410|2|Mr. Sample109 Person109|195 Old South Rd|Southport CT  06890||||||0109|
+E6A3623B|2|Mr. Sample110 Person110|66 Cow Path Dr|Stamford CT  06902||||||0110|
+EFE8E764|2|Mr & Mrs Sample111 Person111|28 Silent Grv N|Westport CT  06880||||||0111|
+441B87A9|2|Mr & Mrs Sample112 Person112|5 Druid Ln|Riverside CT  06878||||||0112|
+CBA19773|2|Mr & Mrs Sample113 Person113|13 Tokeneke Trl|Darien CT  06820||||||0113|
+14686151|2|Mr & Mrs Sample114 Person114|25 Stephanie Ln|Darien CT  06820||||||0114|
+A4857CE9|2|Mr. Sample115 Person115|27 Lynn Ct|Darien CT  06820||||||0115|
+31134CF3|2|Mr. Sample116 Person116|103 Peck Rd|Bethany CT  06524||||||0116|
+103BEB4B|2|Mr & Mrs Sample117 Person117|32 Wright St|Westport CT  06880||||||0117|
+5BBC6B1C|2|Mr & Mrs Sample118 Person118|575 Hulls Farm Rd|Southport CT  06890||||||0118|
+3690F3B4|2|Mrs. Sample119 Person119|PO Box 1140|Southport CT  06890||||||0119|
+9BB9D4A0|4|Mrs. Sample120 Person120|Apt 1C|244 West St|Mount Kisco NY  10549|||||0120|
+A848BA91|2|Dr. & Mrs. Sample121 Person121|54 Compo Rd N|Westport CT  06880||||||0121|
+B0785568|2|Mr. Sample122 Person122|65 Whipstick Rd|Ridgefield CT  06877||||||0122|
+9612776D|2|Mr & Mrs Sample123 Person123|114 Greenwich Hills Dr|Greenwich CT  06831||||||0123|
+A079811F|2|Mr & Mrs Sample124 Person124|1 Orchard Hill Ct|Westport CT  06880||||||0124|
+88F8E0FE|2|Ms. Sample125 Person125|15 Turkey Meadow Rd|Trumbull CT  06611||||||0125|
+798B85E0|2|Mr. Sample126 Person126|17 Whippoorwill Ln|Westport CT  06880||||||0126|
+1CB7BE5F|12|Mr. Sample127 Person127|22 Covewood Dr|Norwalk CT  06853||||||0127|
+4DE1A1D4|2|Mrs. Sample129 Person129|93 Southport Woods Dr|Southport CT  06890||||||0129|
+5E51AB9D|2|Mrs. Sample130 Person130|32 Southport Woods Dr|Southport CT  06890||||||0130|
+710A5967|2|Mr & Mrs Sample131 Person131|113 Keeler Ave|Bridgeport CT  06606||||||0131|
+7BD5086B|4|Mr & Mrs Sample132 Person132|1 Tokeneke Beach Dr|Darien CT  06820||||||0132|
+EBCB0447|2|Ms. Sample133 Person133|199 Mountain Rd|Wilton CT  06897||||||0133|
+C612BE99|2|Mr & Mrs Sample134 Person134|1 White Woods Ln|Westport CT  06880||||||0134|
+2DD01DAD|4|Mr & Mrs Sample135 Person135|10 Bluewater Hl S|Westport CT  06880||||||0135|
+C6DEC72A|2|Mr & Mrs Sample136 Person136|646 West Rd|New Canaan CT  06840||||||0136|
+CB3C501|2|Mrs. Sample137 Person137|101 Field Point Dr|Fairfield CT  06824||||||0137|
+E5905472|4|Mrs. Sample138 Person138|108 Northwood Rd|Fairfield CT  06825||||||0138|
+C40BE301|2|Mr & Mrs Sample139 Person139|Daycroft School|10 Rock Ridge Ave|Greenwich CT  06831|||||0139|
+687D838B|2|Mr & Mrs Sample140 Person140|6 Osee Pl|Cos Cob CT  06807||||||0140|
+9C17DD1D|4|Mr. Sample141 Person141|Talking Drums, Inc.|400 Middlefield St|Middletown CT  06457|||||0141|
+A879872A|2|Mr & Mrs Sample142 Person142|465 Round Hill Rd|Greenwich CT  06831||||||0142|
+E84485C9|2|Ms. Sample143 Person143|105 Long Lots Rd|Westport CT  06880||||||0143|
+C914F9CF|4|Mr. Sample144 Person144|296 Old Church Rd|Greenwich CT  06830||||||0144|
+950245CC|2|Mr & Mrs Sample145 Person145|1069 Briarwood Ave|Bridgeport CT  06604||||||0145|
+2A01ADA9|2|Ms. Sample146 Person146|6 Saddle Ridge Rd|Darien CT  06820||||||0146|
+83E64F92|2|Ms. Sample147 Person147|35 Donna Dr|Norwalk CT  06854||||||0147|

@@ -1,4 +1,6 @@
-Dim oFSO, sourceFolder, destFolder
+Dim oFSO
+'Dim sourceFolder, destFolder
+Dim oFolder
 
 Set oFSO=createobject("Scripting.FileSystemObject")
 
@@ -10,14 +12,17 @@ Set oFSO=createobject("Scripting.FileSystemObject")
 strFolder="C:\Users\NEX2ZUU\Desktop\Materialy\VBS Course\Dir1"
 
 'Deleting folder
-If oFSO.FolderExists(strFolder) Then
-	oFSO.DeleteFolder(strFolder)
-	MsgBox strFolder &" - is deleted now."
-Else
-	MsgBox strFolder &" - folder doesn't exist",0,"Alert!"
-End If
+'If oFSO.FolderExists(strFolder) Then
+'	oFSO.DeleteFolder(strFolder)
+'	MsgBox strFolder &" - is deleted now."
+'Else
+'	MsgBox strFolder &" - folder doesn't exist",0,"Alert!"
+'End If
 
 'To move folder use .MoveFolder [source],[destination]
+
+Set oFolder = oFSO.GetFolder(strFolder)
+MsgBox "Parent Folder :" & oFolder.ParentFolder,0,"Result:"
 
 Set oFSO = Nothing
 
