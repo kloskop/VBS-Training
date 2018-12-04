@@ -8,8 +8,8 @@ Set objExcel = CreateObject("Excel.Application")
 Set objWorkbook = objExcel.Workbooks.Open("C:\Users\NEX2ZUU\Desktop\Zadania z VBS\test.xls")
 Set objSheet = objWorkbook.sheets(1)
 
-For intRow=1 to objSheet.usedrange.rows.count
-Do Until objExcel.Cells(intRow,intColumn).Value=""
+For intRow=1 to objSheet.usedrange.rows.count 'counting rows containing data - CAREFUL WHEN EMPTY CELLS APPEARS BETWEEN OTHERS
+Do Until objExcel.Cells(intRow,intColumn).Value="" 'Iteration through rows 
 	cell = objExcel.Cells(intRow,intColumn).Value
 	intColumn = intColumn+1
 	result=result+CStr(cell)
@@ -18,7 +18,7 @@ Do Until objExcel.Cells(intRow,intColumn).Value=""
 	Next
 	
 Loop
-result=result&vbCrLf
+result=result&vbCrLf 
 intColumn=1
 
 Next

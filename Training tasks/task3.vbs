@@ -6,7 +6,7 @@ n=2
 input = CDbl(InputBox("Enter a number: ","Cheking if Prime","Your number"))
 'input=179426549 'test prime input
 isPrime=true
-Do while n<sqr(input)
+Do while n<sqr(input) 'condition speeding up calculations
 	if input mod n = 0 then
 		isPrime=false
 		exit do
